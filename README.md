@@ -1,4 +1,4 @@
-# Guessing Game
+# Grid Duel
 
 A two-player network-based guessing game built with **Java** and **JavaFX**, using **TCP sockets** for communication. Each player secretly places “correct” and “wrong” nodes on their opponent’s grid, then both take turns trying to guess the correct positions. The first player to find all three correct nodes wins, while clicking the wrong node results in an instant loss.
 
