@@ -67,7 +67,7 @@ Note: Grid-Duel uses JavaFX. JavaFX must be installed and correctly referenced o
 
 ```
 /src
- ├── GuessingGame.java     # Main application, UI, and game logic
+ ├── GridDuel.java         # Main application, UI, and game logic
  ├── Connector.java        # Networking (host, join, send, receive)
  ├── ReceiverHandler.java  # Interface for connection and message callbacks
  └── Node.java             # Representation of each grid node
